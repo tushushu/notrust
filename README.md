@@ -1,5 +1,8 @@
-# funcy
-Python library with chain functional programming
+# Funcy
+Python library with chain functional programming.
+
+## How to install?
+Run `pip install git+https://github.com/tushushu/funcy.git` to install `funcy`.
 
 ## How to build?
 * Run `python setup.py bdist_wheel` to build the wheel file.
