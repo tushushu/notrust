@@ -55,7 +55,7 @@ Iter(zip(*mat)).map(list).to_list()
 ```
 
 Result:  
-[[1, 4, 7], [2, 5, 8], [3, 6, 9]]
+`[[1, 4, 7], [2, 5, 8], [3, 6, 9]]`
 
 
 ### Find the indexes of all negative numbers
@@ -72,4 +72,4 @@ Iter(arr)\
 ```
 
 Result:  
-[1, 3]
+`[1, 3]`
