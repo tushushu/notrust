@@ -1,5 +1,5 @@
 # Funcy
-Python library with chain functional programming.
+Python library with fluent interface.
 
 ## How to install?
 Run `pip install git+https://github.com/tushushu/funcy.git` to install `funcy`.
