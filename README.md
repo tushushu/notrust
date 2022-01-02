@@ -1,5 +1,5 @@
 # Funcy
-Python library with fluent interface.
+Python iteration tool with method chaining style.
 
 ## How to install?
 Run `pip install git+https://github.com/tushushu/funcy.git` to install `funcy`.
