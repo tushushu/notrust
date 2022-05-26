@@ -1,5 +1,5 @@
 # Notrust
-Python iteration tools with method chaining style.
+Not Rust or No trust is a Python iteration tools with rust programming language style.
 
 ## How to install?
 Run `pip install git+https://github.com/tushushu/notrust.git` to install `notrust`.
