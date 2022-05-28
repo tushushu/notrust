@@ -7,10 +7,10 @@ from setuptools import setup
 
 
 setup(
-    name='funcy',
+    name='notrust',
     version='0.1.0',
     description='Python library with chain functional programming.',
     author='Tushushu',
-    url='https://github.com/tushushu/funcy',
-    packages=['funcy'],
+    url='https://github.com/tushushu/notrust',
+    packages=['notrust'],
 )
