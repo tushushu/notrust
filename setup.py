@@ -9,7 +9,7 @@ from setuptools import setup
 setup(
     name='notrust',
     version='0.1.0',
-    description='Python library with chain functional programming.',
+    description='Python iteration tools with rust style.',
     author='Tushushu',
     url='https://github.com/tushushu/notrust',
     packages=['notrust'],
