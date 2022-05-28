@@ -1,19 +1,19 @@
-# Funcy
-Python iteration tools with method chaining style.
+# Notrust
+Not Rust (or No trust) is a Python iteration tools with rust programming language style.
 
 ## How to install?
-Run `pip install git+https://github.com/tushushu/funcy.git` to install `funcy`.
+Run `pip install git+https://github.com/tushushu/notrust.git` to install `notrust`.
 
 ## How to build?
 * Run `python setup.py bdist_wheel` to build the wheel file.
-* Run `pip install {wheel file path}` to install `funcy` from the wheel file.
+* Run `pip install {wheel file path}` to install `notrust` from the wheel file.
 
 ## Examples
 
 ### Word count
 ```Python
 import re
-from funcy import Iter
+from notrust import Iter
 
 
 words = "I like you, and you like me!"
@@ -31,7 +31,7 @@ Result:
 
 ### Cumulative sum
 ```Python
-from funcy import Iter
+from notrust import Iter
 
 
 arr = [1, 2, 3, 4, 5]
@@ -46,7 +46,7 @@ Result:
 
 ### Transpose 2D list
 ```Python
-from funcy import Iter
+from notrust import Iter
 
 
 mat = [
@@ -63,7 +63,7 @@ Result:
 
 ### Find the indexes of all negative numbers
 ```Python
-from funcy import Iter
+from notrust import Iter
 
 
 arr = [1, -2, 3, -4, 5]
